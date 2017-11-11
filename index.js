@@ -2,4 +2,3 @@
 function scuberGreetingForFeet() {
   if console.log((scuberGreetingForFeet <= 400)
 }
-  
