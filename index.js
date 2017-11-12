@@ -14,9 +14,11 @@ return (city === "NYC") ? "Ok, sounds good." : "No go."
 
 function switchOnCharmFromTip(tipString){
   switch(tipString){
-    case "generous"
+    case "generous":
       return "Thank you so much."
-  
-
+    case "not as generous":
+      return "Thank you."
+    case "Thanks for everything":
+      return "thanks for everything"
 }
 }
