@@ -1,5 +1,4 @@
 
 function scuberGreetingForFeet() {
-  if scuberGreetingForFeet() <= 400 {return "This one is on me!"};
-  console.log(199)
+  else if scuberGreetingForFeet() <= 400 {return "This one is on me!"}
 }
