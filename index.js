@@ -1,6 +1,5 @@
 
-function scuberGreetingForFeet(199){
-   if scuberGreetingForFeet(199) <= 400{
-     console.log("This one is on me!");
+function scuberGreetingForFeet(distance){
+   if distance( <= 400){
+   return 'This one is on me!';
    }
-   
